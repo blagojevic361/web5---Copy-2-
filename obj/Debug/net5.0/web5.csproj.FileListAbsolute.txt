@@ -1,0 +1,124 @@
+C:\Users\blago\Desktop\web5\obj\Debug\net5.0\web5.csproj.AssemblyReference.cache
+C:\Users\blago\Desktop\web5\obj\Debug\net5.0\web5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blago\Desktop\web5\obj\Debug\net5.0\web5.AssemblyInfoInputs.cache
+C:\Users\blago\Desktop\web5\obj\Debug\net5.0\web5.AssemblyInfo.cs
+C:\Users\blago\Desktop\web5\obj\Debug\net5.0\web5.csproj.CoreCompileInputs.cache
+C:\Users\blago\Desktop\web5\obj\Debug\net5.0\web5.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\blago\Desktop\web5\obj\Debug\net5.0\web5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\appsettings.json
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\omnisharp.json
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\web5.exe
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\web5.deps.json
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\web5.runtimeconfig.json
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\web5.runtimeconfig.dev.json
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\web5.dll
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\ref\web5.dll
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\web5.pdb
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\Humanizer.dll
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\blago\Desktop\web5\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\blago\Desktop\web5\obj\Debug\net5.0\staticwebassets\web5.StaticWebAssets.Manifest.cache
+C:\Users\blago\Desktop\web5\obj\Debug\net5.0\staticwebassets\web5.StaticWebAssets.xml
+C:\Users\blago\Desktop\web5\obj\Debug\net5.0\scopedcss\bundle\web5.styles.css
+C:\Users\blago\Desktop\web5\obj\Debug\net5.0\web5.RazorTargetAssemblyInfo.cache
+C:\Users\blago\Desktop\web5\obj\Debug\net5.0\web5.csproj.CopyComplete
+C:\Users\blago\Desktop\web5\obj\Debug\net5.0\web5.dll
+C:\Users\blago\Desktop\web5\obj\Debug\net5.0\ref\web5.dll
+C:\Users\blago\Desktop\web5\obj\Debug\net5.0\web5.pdb
+C:\Users\blago\Desktop\web5\obj\Debug\net5.0\web5.genruntimeconfig.cache
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\appsettings.json
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\omnisharp.json
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\web5.exe
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\web5.deps.json
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\web5.runtimeconfig.json
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\web5.runtimeconfig.dev.json
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\web5.dll
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\ref\web5.dll
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\web5.pdb
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\Humanizer.dll
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\blago\Desktop\web5 - Copy (2)\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\blago\Desktop\web5 - Copy (2)\obj\Debug\net5.0\web5.csproj.AssemblyReference.cache
+C:\Users\blago\Desktop\web5 - Copy (2)\obj\Debug\net5.0\web5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blago\Desktop\web5 - Copy (2)\obj\Debug\net5.0\web5.AssemblyInfoInputs.cache
+C:\Users\blago\Desktop\web5 - Copy (2)\obj\Debug\net5.0\web5.AssemblyInfo.cs
+C:\Users\blago\Desktop\web5 - Copy (2)\obj\Debug\net5.0\web5.csproj.CoreCompileInputs.cache
+C:\Users\blago\Desktop\web5 - Copy (2)\obj\Debug\net5.0\web5.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\blago\Desktop\web5 - Copy (2)\obj\Debug\net5.0\web5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\blago\Desktop\web5 - Copy (2)\obj\Debug\net5.0\staticwebassets\web5.StaticWebAssets.Manifest.cache
+C:\Users\blago\Desktop\web5 - Copy (2)\obj\Debug\net5.0\staticwebassets\web5.StaticWebAssets.xml
+C:\Users\blago\Desktop\web5 - Copy (2)\obj\Debug\net5.0\scopedcss\bundle\web5.styles.css
+C:\Users\blago\Desktop\web5 - Copy (2)\obj\Debug\net5.0\web5.RazorTargetAssemblyInfo.cache
+C:\Users\blago\Desktop\web5 - Copy (2)\obj\Debug\net5.0\web5.csproj.CopyComplete
+C:\Users\blago\Desktop\web5 - Copy (2)\obj\Debug\net5.0\web5.dll
+C:\Users\blago\Desktop\web5 - Copy (2)\obj\Debug\net5.0\ref\web5.dll
+C:\Users\blago\Desktop\web5 - Copy (2)\obj\Debug\net5.0\web5.pdb
+C:\Users\blago\Desktop\web5 - Copy (2)\obj\Debug\net5.0\web5.genruntimeconfig.cache
